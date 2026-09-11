@@ -18,10 +18,10 @@ git clone https://github.com/GoogleHub67/java-snake-game
 cd java-snake-game
 
 # 3. Compile the Java source file
-javac Game.java
+javac snake-game.java
 
 # 4. Run the executable application
-java Game
+java snake-game
 ```
 
 ## 🎮 How to Play

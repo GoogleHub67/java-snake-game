@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Created-By: 21.0.0 (Oracle Corporation)
+Main-Class: Game
+Multi-Release: false
+Can-Redefine-Classes: false
+Can-Retransform-Classes: false
+

@@ -33,3 +33,11 @@ java snake-game
 ## 🛠️ Built With
 * **Java SE** - Core language mechanics.
 * **Swing & AWT** - Graphical user interface, canvas painting, and keyboard interactions.
+
+### 🚀 Quick Launch
+
+Instead of typing compilation commands manually, you can launch the game with a single click or command:
+
+* **Windows:** Double-click `run.bat` or run `.\run.bat` in CMD/PowerShell.
+* **Linux / macOS:** Run `./run.sh` in your terminal.
+
